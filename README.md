@@ -21,7 +21,7 @@ The dataset for this project provides comprehensive information on office supply
 
 ### Data Quanlity and Assessment/Cleaning 
 
-In the initaial data perparation phase we pweformed the following tasks:
+In the initaial data perparation phase we performed the following tasks:
 
 - New column are created for (Discount Rate, Gross Sales, Discount, Revenue, Manufacture Cost, Profit Before Tax, Profit and Tax)
 - New measure are created for (Profit Margin)
